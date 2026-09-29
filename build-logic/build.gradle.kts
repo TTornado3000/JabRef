@@ -21,7 +21,7 @@ dependencies {
     implementation("com.github.andygoossens:gradle-modernizer-plugin:1.15.0")
     implementation("com.gradleup.shadow:shadow-gradle-plugin:9.6.1")
     implementation("de.undercouch.download:de.undercouch.download.gradle.plugin:5.7.0")
-    implementation("org.graalvm.buildtools:native-gradle-plugin:1.1.8")
+    implementation("org.graalvm.buildtools:native-gradle-plugin:1.1.14")
     implementation("org.gradlex:extra-java-module-info:1.14.2")
     implementation("org.gradlex:java-module-dependencies:1.13.2")
     implementation("org.gradlex:java-module-packaging:1.3")
